@@ -20,14 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Программирование
+  - Математика
+  - Физика
 
 education:
   courses:
-    - course: Среднее общее образование. МАОУ СОШ №40.
-      year: 2023
+    - course: Среднее общее образование.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

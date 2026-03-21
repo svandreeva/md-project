@@ -20,14 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-  - Clash Royale
   - Программирование
-  - Рисование 
+  - Математика
+  - Физика 
 
 education:
   courses:
-    - course: Среднее общее образование. МАОУ СОШ №40.
-      year: 2023
+    - course: Среднее общее образование.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,6 +63,6 @@ user_groups:
   - Researchers
 ---
 
-Иванов Сергей - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
+Базлов Владимир - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
 
 
