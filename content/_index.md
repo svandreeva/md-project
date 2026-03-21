@@ -8,14 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Молекулярная динамика
+
+        Групповой проект
       image:
-        filename: welcome.jpg
+        filename: group.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Исследовательская группа по математическому моделированию занимается изучением метода молекулярной динамики - компьютерного моделирования движения атомов и молекул на атомном уровне. Метод применяется в физике, химии, материаловедении и биофизике. Наша группа основана в 2026 году. 
+
   
   - block: collection
     content:
@@ -35,26 +37,6 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
@@ -64,7 +46,6 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
     design:
       view: citation
       columns: '1'
