@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Жаворонков Кирилл Александрович 
+title: Кобзев Дмитрий Константинович 
 
 # Full Name (for SEO)
-first_name: Кирилл
-last_name: Жаворонков
+first_name: Дмитрий
+last_name: Кобзев
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,14 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-- качалка
-- киберспорт
-- расклады на картах Таро
-- дайвинг
+  - Программирование
+  - Математика
+  - Физика
 
 education:
   courses:
-    - course: Среднее общее образование.
+    - course: Среднее общее образование. МАОУ СОШ 26
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,6 +63,6 @@ user_groups:
   - Researchers
 ---
 
-Жаворонков Кирилл - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
+Кобзев Дмитрий - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
 
 
