@@ -27,36 +27,6 @@ summary: "Первый этап проекта посвящён моделиро
 # Полное описание (вверху страницы)
 abstract: "Первый этап проекта направлен на изучение методов математического моделирования на примере теплопроводности и детерминированного горения. Исследуется влияние параметра E на режим горения, реализованы две программы для решения одномерного уравнения теплопроводности с адиабатическими граничными условиями (явная и неявная разностные схемы)."
 
-# Кнопки вверху страницы (замените ссылки на свои реальные)
-url_pdf: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/mathmod-project-group-stage01-report.pdf"
-url_slides: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/project_stage1_presentation.pdf"
-
-# Дополнительные кнопки
-links:
-  - name: "Rutube"
-    url: "https://rutube.ru/ВАША_ССЫЛКА"
-    icon_pack: fab
-    icon: youtube
-  - name: "VK Видео"
-    url: "https://vkvideo.ru/ВАША_ССЫЛКА"
-    icon_pack: fab
-    icon: vk
-  - name: "GitHub"
-    url: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ"
-    icon_pack: fab
-    icon: github
-  - name: "Релиз на GitHub"
-    url: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project"
-    icon_pack: fab
-    icon: github
-  - name: "GitVerse"
-    url: "https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ"
-    icon_pack: fab
-    icon: github
-  - name: "Релиз на GitVerse"
-    url: "https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project"
-    icon_pack: fab
-    icon: github
 
 # Теги
 tags:
@@ -117,17 +87,6 @@ featured: true
 ### Дальнейшая работа
 
 На следующем этапе планируется перейти к двумерным задачам, изучить спиновые режимы горения и провести сравнение эффективности явных и неявных схем для различных параметров задачи.
-
-## Ссылки на материалы 1 этапа:
-
-- **[Скачать отчёт (PDF)](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/mathmod-project-group-stage01-report.pdf)** — теоретическое описание и результаты расчётов
-- **[Скачать презентацию (PDF)](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/project_stage1_presentation.pdf)** — презентация защиты
-- **[Смотреть видео на Rutube](https://rutube.ru/ВАША_ССЫЛКА)** — видеозапись защиты
-- **[Смотреть видео в VK Видео](https://vkvideo.ru/ВАША_ССЫЛКА)** — видеозапись защиты
-- **[Репозиторий на GitHub](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ)** — исходный код программ
-- **[Релиз на GitHub](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project)** — материалы этапа 1
-- **[Репозиторий на GitVerse](https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ)** — исходный код
-- **[Релиз на GitVerse](https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project)** — материалы этапа 1
 
 ## Источники
 
