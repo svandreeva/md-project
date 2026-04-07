@@ -27,36 +27,7 @@ summary: "Второй этап проекта посвящён исследов
 # Полное описание (вверху страницы)
 abstract: "На втором этапе изучается влияние параметра E (безразмерной энергии активации) на режим горения в одномерном и двумерном случаях. Анализируются критические значения E* = 6.56 (переход к пульсирующему режиму) и E** = 6.3 (переход к спиновому режиму), а также зависимость этих значений от начальной температуры T0."
 
-# Кнопки вверху страницы (замените ссылки на свои реальные)
-url_pdf: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/mathmod-project-group-stage02-report.pdf"
-url_slides: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/project_stage2_presentation.pdf"
 
-# Дополнительные кнопки
-links:
-  - name: "Rutube"
-    url: "https://rutube.ru/ВАША_ССЫЛКА"
-    icon_pack: fab
-    icon: youtube
-  - name: "VK Видео"
-    url: "https://vkvideo.ru/ВАША_ССЫЛКА"
-    icon_pack: fab
-    icon: vk
-  - name: "GitHub"
-    url: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ"
-    icon_pack: fab
-    icon: github
-  - name: "Релиз на GitHub"
-    url: "https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project"
-    icon_pack: fab
-    icon: github
-  - name: "GitVerse"
-    url: "https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ"
-    icon_pack: fab
-    icon: github
-  - name: "Релиз на GitVerse"
-    url: "https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project"
-    icon_pack: fab
-    icon: github
 
 # Теги
 tags:
@@ -116,16 +87,6 @@ g(E, T_0) = g(E, 0) + \frac{\partial g}{\partial T_0}(E, 0)T_0 + \frac{1}{2!} \f
 
 На следующем этапе планируется реализовать численное моделирование для двумерного случая, визуализировать спиновые режимы горения и провести верификацию полученных критических значений.
 
-## Ссылки на материалы 2 этапа:
-
-- **[Скачать отчёт (PDF)](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/mathmod-project-group-stage02-report.pdf)** — теоретическое описание и результаты расчётов
-- **[Скачать презентацию (PDF)](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/download/v1.0.0_group-project/project_stage2_presentation.pdf)** — презентация защиты
-- **[Смотреть видео на Rutube](https://rutube.ru/ВАША_ССЫЛКА)** — видеозапись защиты
-- **[Смотреть видео в VK Видео](https://vkvideo.ru/ВАША_ССЫЛКА)** — видеозапись защиты
-- **[Репозиторий на GitHub](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ)** — исходный код программ
-- **[Релиз на GitHub](https://github.com/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project)** — материалы этапа 2
-- **[Репозиторий на GitVerse](https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ)** — исходный код
-- **[Релиз на GitVerse](https://gitverse.ru/ВАШ_АККАУНТ/ВАШ_РЕПОЗИТОРИЙ/releases/tag/v1.0.0_group-project)** — материалы этапа 2
 
 ## Источники
 
