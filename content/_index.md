@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Групповой проект:Теплопроводность и детерминированное горение
-
+      title: Теплопроводность и детерминированное горение
+      subtitle: Групповой проект
         
       image:
         filename: group.jpg
