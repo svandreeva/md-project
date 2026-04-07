@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Седохин Даниил Алексеевич
+title: Шубина София Антоновна
 
 # Full Name (for SEO)
-first_name: Даниил
-last_name: Седохин
+first_name: София
+last_name: Шубина
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,14 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-  - Спорт
-  - Программирование
-  - Природа
+- Шаурму крутить
+- Играть в компьютер 
 
 education:
   courses:
-    - course: Среднее общее образование. Сосновская СШ №1.
-      year: 2023
+    - course: Оксфорд
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,9 +43,9 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Daniil2234
+    link: https://github.com/SergeyIvanov21 
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -59,9 +57,11 @@ email: ''
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to [] or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
 ---
 
-Седохин Даниил - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
+Шубина София  - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
+
+

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Кобзев Дмитрий Константинович 
+title: Михайлова Регина Алексеевна
 
 # Full Name (for SEO)
-first_name: Дмитрий
-last_name: Кобзев
+first_name: Регина
+last_name: Михайлова
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-  - Программирование
-  - Математика
-  - Физика
+- качалка
+- расклады на картах Таро
+- дайвинг
 
 education:
   courses:
-    - course: Среднее общее образование. МАОУ СОШ 26
+    - course: Среднее общее образование.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,6 +63,6 @@ user_groups:
   - Researchers
 ---
 
-Кобзев Дмитрий - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
+Михайлова Регина - студент Российского университета дружбы народов, учится на 3 курсе факультета физико-математических и естественных наук по направлению “Прикладная информатика” (09.03.03).
 
 
