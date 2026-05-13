@@ -29,7 +29,6 @@ tags:
   - Python vs Julia
   - Явная схема
   - Неявная схема
-
 featured: true
 ---
 
